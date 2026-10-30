@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.git/
+.gitignore
+.DS_Store
+logs/*-test.log
+models/test-model-*.joblib
